@@ -28,10 +28,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 200,
       "messages": [
         "Amir Is Not A men Is Girl",
-        "Thank You For Join",
+        "Fuck you amir",
         "enjoi"
       ]
     },

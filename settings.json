@@ -28,11 +28,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 200,
+      "repeat-delay": 50,
       "messages": [
-        "Amir Is Not A men Is Girl",
-        "Fuck you amir",
-        "Nutz Better then you"
+        "/register qwerqwer qwerqwer",
+        "/login qwerqwer",
+        " w karim "
       ]
     },
     "chat-log": true,
